@@ -4,6 +4,9 @@
     background-color: #fff;
     border-radius: 2rem;
     opacity: 0.4;
+}
+
+.iconandtemp{
     display: flex;
     justify-content: space-around;
     align-items: start;
@@ -16,4 +19,10 @@
 
 .temp span{
     font-size: 2rem;
+}
+
+.second{
+    font-size: large;
+    display: flex;
+    gap: 2rem;
 }
